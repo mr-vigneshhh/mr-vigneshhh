@@ -1,4 +1,4 @@
-
+#About me✨
 ### 🚀 About Me:<br>- 🎓 First-year BCA Student at *Mangalore University*.<br>- 💻 Currently exploring the worlds of *Java, C, and Data Structures*.<br>- 🎨 Passionate about *Web Development* and clean, minimalist digital design.<br>- 🎯 Goal: To grow from a beginner to a proficient full-stack developer
 
 
