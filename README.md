@@ -3,10 +3,6 @@
 </div>
 
 
-<div align="center">
-
-<!-- PREMIUM CINEMATIC BANNER -->
-<img src="assets/github-banner.png" width="100%" alt="Vignesh"/>
 
 <br/>
 
