@@ -3,7 +3,7 @@
 </div>
 
 
-
+<div align="center">
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Vignesh+%F0%9F%91%8B;Vibe+Coder+%7C+AI+Enthusiast;Project+Builder+%7C+Tech+Explorer;Turning+Ideas+Into+Reality!" />
