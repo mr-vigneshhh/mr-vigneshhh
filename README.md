@@ -22,7 +22,7 @@ Hi! I'm **Vignesh**, a BCA student passionate about technology, creativity and b
 - 🚀 Vibe Coder who enjoys turning ideas into reality.
 - 🤖 Exploring AI-powered development.
 - 💡 Interested in creating useful digital products.
-- 🌱 Currently learning Python, SQL and web technologies.
+- 🌱 Currently learning Networking & OS, SQL and web technologies.
 - 🎯 Focused on experimenting, building and improving.
 
 ---
@@ -52,7 +52,6 @@ A digital creative agency focused on creative design, video editing and web expe
 
 - Developed ElectionFlow as a solo project.
 - Achieved an AI dashboard evaluation score of **96.93/100**.
-- Secured **1st position among 91 participants** according to the evaluation ranking.
 - Built the project within a 2-hour hackathon.
 
 ---
