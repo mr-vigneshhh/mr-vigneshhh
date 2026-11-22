@@ -67,7 +67,7 @@ A digital creative agency focused on creative design, video editing and web expe
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite"/>
 </p>
 
 ### Tools & Platforms
