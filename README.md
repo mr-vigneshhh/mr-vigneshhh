@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Vignesh+%F0%9F%91%8B;Vibe+Coder+%7C+AI+Enthusiast;Project+Builder+%7C+Tech+Explorer;Turning+Ideas+Into+Reality!" />
 
-### Vibe Coder | AI Enthusiast | Project Builder
+### Student Developer | AI Enthusiast | Project Builder
 
 <img src="https://komarev.com/ghpvc/?username=mr-vigneshhh&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
 
@@ -33,7 +33,7 @@ Hi! I'm **Vignesh**, a BCA student passionate about technology, creativity and b
 ### 🌐 Portfolio
 A showcase of my projects, skills, and development journey.
 
-🔗 "Explore My Portfolio" (https://vignesh-builds.vercel.app/)
+[🔗 Explore My Portfolio](https://vignesh-builds.vercel.app/)
 
 ### 📊 AttendWise
 A smart attendance tracking platform designed to help students monitor their attendance.
