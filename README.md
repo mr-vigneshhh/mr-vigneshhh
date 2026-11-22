@@ -30,6 +30,11 @@ Hi! I'm **Vignesh**, a BCA student passionate about technology, creativity and b
 
 ## 🚀 Featured Projects
 
+### 🌐 Portfolio
+A showcase of my projects, skills, and development journey.
+
+🔗 "Explore My Portfolio" (https://vignesh-builds.vercel.app/)
+
 ### 📊 AttendWise
 A smart attendance tracking platform designed to help students monitor their attendance.
 
